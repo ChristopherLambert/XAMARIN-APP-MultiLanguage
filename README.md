@@ -6,3 +6,8 @@ https://www.nuget.org/packages/Plugin.Multilingual/
 
 Passo a passo para a construção de um aplicativo multilingual 
 https://xamgirl.com/multilingual-localization-plugin-for-xamarin/
+
+Passo a passo: 
+1º Adicione o Plugin.Multilingual via Nuget
+
+2º Adicione um arquivo resx para cada idioma que você deseja suportar.
